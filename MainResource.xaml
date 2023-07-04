@@ -1,0 +1,10 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                    xmlns:view="clr-namespace:BaslerCameraVisual.View"
+                    xmlns:viewmodel="clr-namespace:BaslerCameraVisual.ViewModel">
+    <viewmodel:MainViewModel x:Key="Vm_Main"/>
+
+    <DataTemplate DataType="{x:Type viewmodel:MainViewModel}">
+        <view:MainView/>
+    </DataTemplate>
+</ResourceDictionary>
