@@ -47,7 +47,3 @@ E:\VISUAL PROJECT\BaslerCameraVisual\BaslerCameraVisual\obj\Debug\BaslerCameraVi
 E:\VISUAL PROJECT\BaslerCameraVisual\BaslerCameraVisual\obj\Debug\BaslerCameraVisual.pdb
 E:\VISUAL PROJECT\BaslerCameraVisual\BaslerCameraVisual\bin\Debug\Basler.Pylon.dll
 E:\VISUAL PROJECT\BaslerCameraVisual\BaslerCameraVisual\bin\Debug\Basler.Pylon.xml
-F:\VISUAL PROJECT\CSharp\WPF\BaslerCameraVisual\bin\Debug\Basler.Pylon.dll
-F:\VISUAL PROJECT\CSharp\WPF\BaslerCameraVisual\bin\Debug\MVSDK.dll
-F:\VISUAL PROJECT\CSharp\WPF\BaslerCameraVisual\bin\Debug\Basler.Pylon.xml
-F:\VISUAL PROJECT\CSharp\WPF\BaslerCameraVisual\bin\Debug\MVSDK.pdb
