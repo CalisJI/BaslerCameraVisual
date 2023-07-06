@@ -18,12 +18,11 @@
                     <ColumnDefinition/>
                 </Grid.ColumnDefinitions>
                 <Image
-                Margin="30"
+                Margin="50"
                 x:Name="img" Grid.Column="0"/>
                 <Image
-                Margin="30"
+                Margin="50"
                 x:Name="img1" Grid.Column="1"/>
-
             </Grid>
             
             <StackPanel
