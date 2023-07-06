@@ -9,6 +9,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
+using BaslerCameraVisual;
 using BaslerCameraVisual.View;
 using System;
 using System.Diagnostics;
