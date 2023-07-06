@@ -45,12 +45,8 @@
       <SpecificVersion>False</SpecificVersion>
       <HintPath>C:\Program Files\Basler\pylon 7\Development\Assemblies\Basler.Pylon\x64\Basler.Pylon.dll</HintPath>
     </Reference>
-    <Reference Include="MVSDK">
-      <HintPath>C:\Program Files (x86)\ChinaVision\Demo\C#\MVSDK\MVSDK.dll</HintPath>
-    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Data" />
-    <Reference Include="System.Drawing" />
     <Reference Include="System.Xml" />
     <Reference Include="Microsoft.CSharp" />
     <Reference Include="System.Core" />
